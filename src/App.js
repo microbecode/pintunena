@@ -7,7 +7,14 @@ function App() {
       <header className="App-header">
         <div>This is the official website of SIA Pintunena.</div>
         <marquee>We do serious business!</marquee>
-        <img src="https://c.tenor.com/X26Gz2f4i9YAAAAM/cat-angry.gif" alt="cat"></img>
+        <div>Offered services: IT consultation, blockchain consultation. Prices starting at 200€/h or by project.</div>
+        <div>Company information: 
+          <ul>
+            <li>Name: SIA Pintunena</li>
+            <li>Registration number: 50203308681</li>
+            <li>Registration country: Latvia</li>
+          </ul>
+        </div>
         <div>Contact information: <a href="https://www.linkedin.com/in/lauri-peltonen/">LinkedIn</a></div>
         
       </header>
